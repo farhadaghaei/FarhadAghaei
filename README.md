@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarhadAghaei
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Web Developement: PHP(Laravel), JavaScript(Vue.js)
 - 🌱 I’m currently learning Vue.js
 
 <!---

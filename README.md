@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhadAghaei
-- 👀 I’m interested in Web Developement: PHP(Laravel), JavaScript(Vue.js)
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in Backend Developement: PHP, Go, Node.js | Mysql, Postgres, MongoDB
+- 🌱 I’m currently learning go
 
 <!---
 FarhadAghaei/FarhadAghaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
